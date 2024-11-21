@@ -5,7 +5,7 @@ namespace Agrocolor\Utils;
 use Ramsey\Uuid\Uuid as RamseyUuid;
 use InvalidArgumentException;
 
-class UUID32Utils
+class Uuid32Utils
 {
     public static function generateString(): string
     {
